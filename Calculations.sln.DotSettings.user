@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8ceacaa1_002Dd769_002D4b59_002D86de_002D2bc4ce55e913/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CalculatorTest.Add_GivenTwoIntValues_ReturnsInt&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CalculatorTest.AddDouble_GivenTwoDoubleValues_ReturnsDouble&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.NamesTest.MakeFullNameTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.NamesTest.NickName_MustBeNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.NamesTest.MakeFullName_AlwaysReturnValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CollectionsTests.FiboDoesNotIncludeZero&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CollectionsTests.FiboIncludes13&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CollectionsTests.FiboDoesNotIncludes4&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerTests.CheckLegitForDiscount&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerTests.CheckNameNotEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerTests.GetOrdersByNameNotNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CustomerTests.LoyalCustomerForOrdersG100&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2E95FE6E-BA4C-4E1C-A9EF-6B5F8171F628::.NETCoreApp,Version=v3.1::Calculations.Tests.CollectionsTests.IsOdd_TestOddAndEven&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.exe
+C:\Users\bogda\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.deps.json
+C:\Users\bogda\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.json
+C:\Users\bogda\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\bogda\source\repos\Calculations\Calculations\bin\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.AssemblyInfo.cs
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.dll
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.pdb
+C:\Users\bogda\source\repos\Calculations\Calculations\obj\Debug\netcoreapp3.1\Calculations.genruntimeconfig.cache
